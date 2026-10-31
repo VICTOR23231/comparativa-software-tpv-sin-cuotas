@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://victor23231.github.io/comparativa-software-tpv-sin-cuotas/sitemap.xml
